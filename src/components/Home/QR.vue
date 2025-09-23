@@ -27,11 +27,11 @@
             </v-card-actions>
         </v-card>
     </v-container>
-    
+
 </template>
 
 <script>
-import qrCodeImage from '../../img/myqrcode_69522.png';
+import qrCodeImage from '../../img/qr-internat.png';
 export default {
     name: "QR",
     data() {
