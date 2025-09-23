@@ -132,10 +132,10 @@ export default {
 
                     // E-Mail über EmailJS senden
                     await emailjs.send(
-                        'service_7u6xfpo',      //Service ID
-                        'template_n9tvcd7',     //Template ID
+                        'service_clpbcmv',      //Service ID
+                        'template_f3mob7g',     //Template ID
                         templateParams,
-                        'mhUHetv55RImbj_Mv'          //user ID
+                        '0xvF8UUqGbB866g_w'          //user ID
                     );
 
                     // Erfolgsmeldung
